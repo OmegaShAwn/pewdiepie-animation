@@ -1,4 +1,4 @@
 # pewdiepie-animation
 animated pewdiepie theme
 
-Deployed at https://omegashawn.github.io/pewdiepie-animation/
+Deployed at https://shawnthottan.github.io/pewdiepie-animation/
